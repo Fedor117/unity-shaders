@@ -12,7 +12,7 @@
             float4 color;
         };
 
-        void surf (Input IN, inout SurfaceOutputStandard o)
+        void surf (Input IN, inout SurfaceOutput o)
         {
             o.Albedo = 1;
         }
