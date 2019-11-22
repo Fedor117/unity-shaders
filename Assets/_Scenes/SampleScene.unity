@@ -133,7 +133,7 @@ GameObject:
   - component: {fileID: 101279077}
   - component: {fileID: 101279076}
   m_Layer: 0
-  m_Name: Sphere (2)
+  m_Name: DiffuseTextureSphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -224,7 +224,7 @@ GameObject:
   - component: {fileID: 264572936}
   - component: {fileID: 264572935}
   m_Layer: 0
-  m_Name: Sphere
+  m_Name: RimLightingSphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -260,7 +260,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: b24d5c9f224dc4edbaa93d011b1a30b3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -581,7 +581,7 @@ GameObject:
   - component: {fileID: 1141757732}
   - component: {fileID: 1141757731}
   m_Layer: 0
-  m_Name: Sphere (3)
+  m_Name: DiffuseWhiteSphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -672,7 +672,7 @@ GameObject:
   - component: {fileID: 1263190289}
   - component: {fileID: 1263190288}
   m_Layer: 0
-  m_Name: Sphere (1)
+  m_Name: DiffuseBumSphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
